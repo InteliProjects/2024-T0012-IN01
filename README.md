@@ -16,7 +16,7 @@ A solução é uma aplicação gamificada para o onboarding de novos funcionári
 - Grupo 1 - Pontual.Org
   - Link do repositório: https://github.com/InteliProjects/2024-T0012-IN01-G01
 
-- Grupo 2 - 
+- Grupo 2 - Preserverance Games
   - Link do repositório: https://github.com/InteliProjects/2024-T0012-IN01-G02
 
 - Grupo 3 - Greentech
